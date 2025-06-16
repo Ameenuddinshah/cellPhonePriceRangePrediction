@@ -1,0 +1,1 @@
+This project predicts cellphone price ranges based on their features using machine learning. It includes data preprocessing, exploratory analysis, feature selection, and modeling with techniques like Random Forest, Linear Regression, and XGBoost. The notebook demonstrates insights from the data and evaluates model performance using metrics like accuracy and R-squared.
